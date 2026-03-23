@@ -9,7 +9,6 @@ Developer: Kaustubh Tiwari
 Tech Stack: Python, Streamlit, Pandas, NumPy
 
 Category: Business Automation / Management Tool
-
 2. Introduction
 Aaj ke samay mein har company ko aise employees chahiye jo AI aur Data ka use karke kaam ko fast kar sakein. Smart-Ops ek aisa digital dashboard hai jo "Non-Coding" jobs (jaise Operations, HR, aur Sales) ko modern banane ke liye banaya gaya hai. Ye tool ek hi jagah par tasks, AI prompts, aur performance charts ko manage karta hai.
 
